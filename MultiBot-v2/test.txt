@@ -1,0 +1,61 @@
+{
+    "Discord": {
+    "Token": "smh",
+    "Name": "MultiTech",
+    "Prefix": ".",
+	"AdminRole" : "954841874953289810",
+	"MemberRole" : "955427507954397194",
+	"TrialRole" : "1047901692257124504",
+	"FriendRole" : "1047901830887256114",
+	"CommandRole" : "955427507954397194",
+	"Guild" : "937438995598676028"
+    },
+    "Applications": {
+        "SheetName" : "MultiTech Application [Eng] (answers)",
+	"NameIndex" : "1",
+	"AgeIndex": "3",
+	"ChannelRole" : "955427507954397194",
+	"AppCaterogory" : "1047899699195166750",
+	"ArchiviedAppCategory" : "1048366245868732526",
+	"TicketVoting" : "1047903278140243968",
+	"MemberVoting" : "1047903278140243968",
+	"AppChannel" : "1047894315386544148",
+	"FormLink": "https://docs.google.com/forms/d/e/1FAIpQLScfOj0FHe0U-jusesL9eJH9_6x6bI-zODWtUuR_zkbvUCy4pQ/viewform?usp=pp_url",
+	"MinAge": "14",
+	"Questions" : ["Sent:", 
+	    "Discord name and tag:",
+	    "MC ign:",
+	    "Age:",
+	    "Plyaing mc from:",
+	    "Joined tmc:",
+	    "Why he wants to join:", 
+ 	    "What he can add to MultiTech:",
+ 	    "How he discovered MultiTech:", 
+ 	    "How much hours/week can you spend here:", 
+ 	    "Specialized in:", 
+ 	    "Explain what Tps and Mspt are:",
+	    "English level:",
+ 	    "Playing/ed in :",
+ 	    "Do you work well with others:",
+ 	    "Are you planning to record videos or stream here:",
+ 	    "His Projects album:",
+ 	    "Something he wants to tell us:",
+ 	    "How can we improve our application:"
+	]
+    },
+    "Minecraft": {
+	"BridgeChannel" : "",
+    "ExecuteRole" : "955427507954397194",
+	"RconPass" : "",
+	"ServersName" : ["SMP", "CMP1", "CMP2", "MIRROR"],
+	"ServersRconPort" : "",
+	"ServersPath" : "",
+	"ServersStructuresPath" : "",
+	"MemberTeam" : "Member",
+	"TrialTeam" : "Kinda-Member",
+	"GuestTeam" : "Guest",
+	"CheckBlockCoords" : [["Main storage", "SMP", "-235 92 3686", "is running", "isn't running"]
+	],
+	"PcprRecordingPath" : ""
+    }
+}

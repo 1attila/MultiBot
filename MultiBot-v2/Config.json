@@ -1,0 +1,36 @@
+{
+    "Discord": {
+    "Token": "",
+    "Name": "",
+    "Prefix": ".",
+	"AdminRole" : "",
+	"AppRole" : "",
+	"MemberRole" : "",
+	"TrialRole" : "",
+	"FriendRole" : "",
+	"CommandRole" : "",
+	"Guild" : ""
+    },
+    "Applications": {
+    "SheetName" : "",
+	"NameIndex" : "",
+	"IgnIndex": "",
+	"ArchiviedAppCategory" : "",
+	"TicketVoting" : "",
+	"MemberVoting" : "",
+	"AppChannel" : ""
+    },
+    "Minecraft": {
+	"BridgeChannel" : "",
+	"CommandPrefix" : [".", "!", "!!"],
+	"RconPass" : "",
+	"Servers" : [[["SMP", "smp", "survival", "s"], "PORT", "EXECUTE_COMMANDS_FROM_DC", "PATH", "BACKUP_TIME_INTERVAL"]],
+	"ServersStructuresPath" : "",
+	"MemberTeam" : "",
+	"TrialTeam" : "",
+	"GuestTeam" : "",
+	"CheckBlockCoords" : [["Main storage", "SMP", "oveworld", "-235 92 3686", [["redstone_block", "is running"], ["air", "isn't running"]]]
+	],
+	"PcprRecordingPath" : ""
+    }
+}
